@@ -1,3 +1,5 @@
+🌊 Identificação de Áreas Alagáveis via NDWI e Precipitação
+
 1.	OBJETIVO
 Analisar padrões espaciais e temporais de alagamento a partir de NDWI (Sentinel -2) e precipitação (CHIRPS) sobre a sub-bacia do Monjolinho, São Carlos (SP).
 2.	Questões da pesquisa:
